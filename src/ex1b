@@ -1,4 +1,0 @@
-1. Faça um programa em C com um array de 20 números inteiros. Atribua valores (aleatórios,
-leitura, sequencial (maior para menor), etc ) ao array.
-a) Implemente uma função para realizar a ordenação por seleção (ordem crescente)
-b) Implemente uma função para realizar a ordenação por inserção (ordem crescente)
