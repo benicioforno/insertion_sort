@@ -1,3 +1,4 @@
+#include "../include/insertion_sort.h"
 
 void InsertionSort(int *array, int length) {
   int i, j, current;
